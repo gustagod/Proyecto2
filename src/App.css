@@ -1,0 +1,17 @@
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('/paisaje-desierto-de-sonora-mexico-cactus-nopales.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.app__loader{
+    background-color: rgba(45, 82, 116, 0.671);
+    padding:10px 10px 10px 10px;
+    border-radius: 1rem;
+    color: white;
+}
