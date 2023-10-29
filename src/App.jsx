@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 import axios from 'axios'
-import WeatherCard from './components/weatherCard.jsx'
+import WeatherCard from './components/WeatherCard.jsx'
 
 function App() {
 
